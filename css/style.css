@@ -18,8 +18,14 @@
  @import url(jquery-ui.css);
  @import url(nice-select.css);
 /*--------------------------------------------------------------------- skeleton ---------------------------------------------------------------------*/
+ .tihub-br1rem {
+     border-radius: 1rem;
+}
  .tihub-br15rem {
      border-radius: 1.5rem;
+}
+ .tihub-br2rem {
+     border-radius: 2rem;
 }
  .tihub-br25rem {
      border-radius: 2.5rem;

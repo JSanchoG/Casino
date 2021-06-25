@@ -33,6 +33,18 @@
  .tihub-br25rem {
      border-radius: 2.5rem;
 }
+ .tihub-br1rem:hover {
+     border-radius: 2rem;
+}
+ .tihub-br15rem:hover {
+     border-radius: 2.5rem;
+}
+ .tihub-br2rem:hover {
+     border-radius: 3rem;
+}
+ .tihub-br25rem:hover {
+     border-radius: 3.5rem;
+}
  * {
      box-sizing: border-box !important;
 }

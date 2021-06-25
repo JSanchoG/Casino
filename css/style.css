@@ -18,6 +18,9 @@
  @import url(jquery-ui.css);
  @import url(nice-select.css);
 /*--------------------------------------------------------------------- skeleton ---------------------------------------------------------------------*/
+ .tihub-onh-sh-lg:hover {
+     box-shadow: 0 1rem 3rem rgba(0,0,0,.175)!important
+}
  .tihub-br1rem {
      border-radius: 1rem;
 }
